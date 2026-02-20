@@ -54,7 +54,7 @@ This app allows users to create multiple conversations, maintain chat history lo
 ![Chat Screen](screenshots/chat_screen.jpg)
 
 ---
-
+## Gen AI Model Code-https://github.com/siddharthabhatnagar/AiChatBot
 ## 🏗 Architecture
 
 The app follows **MVVM Clean Architecture**:
